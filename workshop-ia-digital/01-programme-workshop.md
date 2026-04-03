@@ -22,7 +22,7 @@
 
 ## JOUR 1 — Lundi 14 avril 2026 : COMPRENDRE ET MAÎTRISER L'IA
 
-**Thème de la journée** : De la découverte à la maîtrise — Vos premiers pas concrets avec l'IA
+**Thème de la journée** : De la découverte à la maîtrise... Vos premiers pas concrets avec l'IA
 
 ---
 
@@ -31,10 +31,10 @@
 **Objectif** : Comprendre ce qu'est réellement l'IA, ce qu'elle peut faire (et ne peut pas faire), et pourquoi c'est le moment d'agir.
 
 **Points clés** :
-- Ce que l'IA est VRAIMENT (et ce qu'elle n'est pas) — en termes simples
+- Ce que l'IA est VRAIMENT (et ce qu'elle n'est pas)... en termes simples
 - Les 3 types d'IA que vous pouvez utiliser dès aujourd'hui (IA conversationnelle, IA de génération, IA d'automatisation)
 - Pourquoi 2026 est l'année charnière : ce qui a changé ces 12 derniers mois
-- Les 5 erreurs que font 90% des professionnels avec l'IA (et comment les éviter)
+- Les 6 erreurs que font 90% des professionnels avec l'IA (et comment les éviter)
 - Le mindset du professionnel augmenté par l'IA
 
 **Exercice pratique** (10 min) :
@@ -51,10 +51,10 @@
 
 ### Module 2 : L'art du prompt — Parler à l'IA pour obtenir des résultats exceptionnels (18h00 — 18h55)
 
-**Objectif** : Maîtriser la compétence #1 de l'ère IA — savoir formuler des demandes claires et puissantes à l'IA.
+**Objectif** : Maîtriser la compétence #1 de l'ère IA... savoir formuler des demandes claires et puissantes à l'IA.
 
 **Points clés** :
-- Le framework RICE pour des prompts puissants :
+- Les frameworks RICE (et RCTCF) pour des prompts puissants :
   - **R**ôle : Donner une identité à l'IA ("Tu es un expert en...")
   - **I**nstruction : Être précis sur ce que tu veux
   - **C**ontexte : Fournir le contexte nécessaire
@@ -68,10 +68,10 @@
   5. Prompt de structuration (plans d'action, processus)
   6. Prompt de traduction/adaptation (langue, ton, format)
   7. Prompt de révision/amélioration (relecture, optimisation)
-- Comment itérer avec l'IA : la conversation, pas la commande unique
+- Les techniques de prompting avancées et comment itérer avec l'IA : la conversation, pas la commande unique
 
 **Exercice pratique** (15 min) :
-- Chaque participant rédige un prompt avec le framework RICE pour une de ses tâches identifiées au Module 1
+- Chaque participant rédige un prompt avec les frameworks pour une de ses tâches identifiées au Module 1
 - Test en direct sur ChatGPT ou Claude
 - 3 participants partagent leur résultat
 
@@ -83,7 +83,7 @@
 
 ---
 
-### Module 3 : L'IA au quotidien — 10 cas d'usage concrets pour gagner 2h par jour (19h05 — 20h15)
+### Module 3 : L'IA au quotidien — 10 cas d'usage concrets pour gagner minimum 2h par jour (19h05 — 20h15)
 
 **Objectif** : Repartir avec 10 techniques concrètes et immédiatement applicables pour utiliser l'IA dans son travail dès demain.
 
@@ -121,7 +121,7 @@
 
 ## JOUR 2 — Mardi 15 avril 2026 : AUTOMATISER ET DÉPLOYER L'IA
 
-**Thème de la journée** : De l'utilisation ponctuelle au système — Faire de l'IA votre collaborateur permanent
+**Thème de la journée** : De l'utilisation ponctuelle au système... Faire de l'IA votre collaborateur permanent
 
 ---
 
